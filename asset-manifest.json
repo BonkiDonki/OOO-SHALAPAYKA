@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OOO-SHALAPAYKA/static/css/main.005e2e50.css",
+    "main.js": "/OOO-SHALAPAYKA/static/js/main.c48b0e77.js",
+    "index.html": "/OOO-SHALAPAYKA/index.html",
+    "main.005e2e50.css.map": "/OOO-SHALAPAYKA/static/css/main.005e2e50.css.map",
+    "main.c48b0e77.js.map": "/OOO-SHALAPAYKA/static/js/main.c48b0e77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005e2e50.css",
+    "static/js/main.c48b0e77.js"
+  ]
+}
